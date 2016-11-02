@@ -1,0 +1,636 @@
+{"_id":1,"titulo":"ACM Journal of Experimental Algorithmics","issn":"1084-6654","estrato":"B4"}
+{"_id":2,"titulo":"ACM Journal on Emerging Technologies in Computing Systems","issn":"1550-4832","estrato":"B2"}
+{"_id":3,"titulo":"ACM SIGPLAN Notices","issn":"1523-2867","estrato":"C"}
+{"_id":4,"titulo":"ACM Transactions on Database Systems","issn":"0362-5915","estrato":"A2"}
+{"_id":5,"titulo":"ACM Transactions on Design Automation of Electronic Systems","issn":"1084-4309","estrato":"B1"}
+{"_id":6,"titulo":"ACM Transactions on Embedded Computing Systems","issn":"1539-9087","estrato":"B2"}
+{"_id":7,"titulo":"ACM Transactions on Intelligent Systems and Technology","issn":"2157-6904","estrato":"A1"}
+{"_id":8,"titulo":"ACM Transactions on Internet Technology","issn":"1533-5399","estrato":"B1"}
+{"_id":9,"titulo":"ACM Transactions on Knowledge Discovery from Data","issn":"1556-4681","estrato":"B1"}
+{"_id":10,"titulo":"ACM Transactions on Reconfigurable Technology and Systems","issn":"1936-7406","estrato":"B3"}
+{"_id":11,"titulo":"ACM Transactions on Sensor Networks","issn":"1550-4859","estrato":"B1"}
+{"_id":12,"titulo":"Acta Crystallographica. Section F: Structural Biology Communications","issn":"2053-230X","estrato":"C"}
+{"_id":13,"titulo":"Ad Hoc Networks","issn":"1570-8705","estrato":"B1"}
+{"_id":14,"titulo":"Advanced Materials Research (Online)","issn":"1662-8985","estrato":"B5"}
+{"_id":15,"titulo":"Advances in Engineering Software (1992)","issn":"0965-9978","estrato":"B1"}
+{"_id":16,"titulo":"Advances in Space Research","issn":"0273-1177","estrato":"B4"}
+{"_id":17,"titulo":"African Journal of Agricultural Research","issn":"1991-637X","estrato":"B5"}
+{"_id":18,"titulo":"Agricultural Sciences","issn":"2156-8553","estrato":"C"}
+{"_id":19,"titulo":"Agricultural Systems","issn":"0308-521X","estrato":"B3"}
+{"_id":20,"titulo":"Anais do ... Simpósio Brasileiro de Informática na Educação","issn":"2176-4301","estrato":"C"}
+{"_id":21,"titulo":"Analog Integrated Circuits and Signal Processing","issn":"0925-1030","estrato":"B1"}
+{"_id":22,"titulo":"Andamios -Revista de Investigación Social","issn":"1870-0063","estrato":"C"}
+{"_id":23,"titulo":"Annales des Telecommunications","issn":"mar/47","estrato":"B2"}
+{"_id":24,"titulo":"Annals of Mathematics and Artificial Intelligence","issn":"1012-2443","estrato":"B1"}
+{"_id":25,"titulo":"Annals of Operation Research","issn":"0254-5330","estrato":"A2"}
+{"_id":26,"titulo":"Annals of Operations Research (Dordrecht. Online)","issn":"1572-9338","estrato":"A2"}
+{"_id":27,"titulo":"Antonie van Leeuwenhoek (Gedrukt)","issn":"mar/72","estrato":"B3"}
+{"_id":28,"titulo":"Applied Engineering in Agriculture","issn":"0883-8542","estrato":"B5"}
+{"_id":29,"titulo":"Applied Ergonomics","issn":"mar/70","estrato":"B4"}
+{"_id":30,"titulo":"Applied Intelligence (Boston)","issn":"0924-669X","estrato":"B1"}
+{"_id":31,"titulo":"Applied Intelligence (Dordrecht. Online)","issn":"1573-7497","estrato":"B1"}
+{"_id":32,"titulo":"Applied Mechanics and Materials","issn":"1660-9336","estrato":"B5"}
+{"_id":33,"titulo":"Applied Soft Computing (Print)","issn":"1568-4946","estrato":"A2"}
+{"_id":34,"titulo":"Arquivo Brasileiro de Medicina Veterinária e Zootecnia","issn":"0102-0935","estrato":"B5"}
+{"_id":35,"titulo":"Arquivos Catarinenses de Medicina (Impresso)","issn":"abr/73","estrato":"C"}
+{"_id":36,"titulo":"Ars Combinatoria","issn":"0381-7032","estrato":"B2"}
+{"_id":37,"titulo":"Art Music Review","issn":"2317-6059","estrato":"C"}
+{"_id":38,"titulo":"Artificial Intelligence in Medicine (Print)","issn":"0933-3657","estrato":"B1"}
+{"_id":39,"titulo":"AtoZ: novas práticas em informação e conhecimento","issn":"2237-826X","estrato":"C"}
+{"_id":40,"titulo":"Automatica (Oxford)","issn":"0005-1098","estrato":"A1"}
+{"_id":41,"titulo":"Autonomous Agents and Multi-Agent Systems (Dordrecht. Online)","issn":"1573-7454","estrato":"B1"}
+{"_id":42,"titulo":"Ação Ergonômica","issn":"1519-7859","estrato":"C"}
+{"_id":43,"titulo":"BIT Numerical Mathematics","issn":"jun/35","estrato":"B1"}
+{"_id":44,"titulo":"BMC Bioinformatics","issn":"1471-2105","estrato":"A1"}
+{"_id":45,"titulo":"BMC Genomics","issn":"1471-2164","estrato":"B2"}
+{"_id":46,"titulo":"BMC Medical Genomics","issn":"1755-8794","estrato":"B2"}
+{"_id":47,"titulo":"BMC Research Notes","issn":"1756-0500","estrato":"B5"}
+{"_id":48,"titulo":"BioMed Research International","issn":"2314-6141","estrato":"C"}
+{"_id":49,"titulo":"BioMed Research International","issn":"2314-6133","estrato":"C"}
+{"_id":50,"titulo":"Bioinformatics (Oxford. Print)","issn":"1367-4803","estrato":"A1"}
+{"_id":51,"titulo":"Biomedical Engineering Online (Online)","issn":"1475-925X","estrato":"B3"}
+{"_id":52,"titulo":"Brazilian Journal of Probability and Statistics","issn":"0103-0752","estrato":"B5"}
+{"_id":53,"titulo":"Brazilian Journalism Research (Online)","issn":"1981-9854","estrato":"C"}
+{"_id":54,"titulo":"Business Process Management Journal","issn":"1463-7154","estrato":"B5"}
+{"_id":55,"titulo":"C&T. Revista Militar de Ciência e Tecnologia","issn":"0102-3543","estrato":"C"}
+{"_id":56,"titulo":"CLEI Electronic Journal","issn":"0717-5000","estrato":"B5"}
+{"_id":57,"titulo":"Caderno de Graduação - Ciências Biológicas e da Saúde FITS","issn":"2316-6738","estrato":"C"}
+{"_id":58,"titulo":"Cadernos ADENAUER (São Paulo)","issn":"1519-0951","estrato":"C"}
+{"_id":59,"titulo":"Cadernos de Informática (UFRGS)","issn":"1519-132X","estrato":"C"}
+{"_id":60,"titulo":"Cadernos de Pesquisa","issn":"2178-2229","estrato":"C"}
+{"_id":61,"titulo":"Cadernos de Prospecção","issn":"2317-0026","estrato":"C"}
+{"_id":62,"titulo":"Cadernos de Saúde Pública (ENSP. Impresso)","issn":"0102-311X","estrato":"C"}
+{"_id":63,"titulo":"Cancer Informatics","issn":"1176-9351","estrato":"B2"}
+{"_id":64,"titulo":"Carnets de Géologie","issn":"1634-0744","estrato":"B5"}
+{"_id":65,"titulo":"Case Reports in Rheumatology","issn":"2090-6889","estrato":"C"}
+{"_id":66,"titulo":"Chaos (Woodbury, N.Y.)","issn":"1054-1500","estrato":"B3"}
+{"_id":67,"titulo":"Chemistry Letters","issn":"0366-7022","estrato":"B4"}
+{"_id":68,"titulo":"Circulation (New York, N.Y.)","issn":"set/22","estrato":"B1"}
+{"_id":69,"titulo":"Ciência e Natura","issn":"2179-460X","estrato":"C"}
+{"_id":70,"titulo":"Climatic Change","issn":"0165-0009","estrato":"B1"}
+{"_id":71,"titulo":"Clinical Neurophysiology","issn":"1388-2457","estrato":"B2"}
+{"_id":72,"titulo":"Cluster Computing","issn":"1386-7857","estrato":"B2"}
+{"_id":73,"titulo":"Cognitive Processing (Print)","issn":"1612-4782","estrato":"B1"}
+{"_id":74,"titulo":"Colloid and Polymer Science (Print)","issn":"0303-402X","estrato":"B3"}
+{"_id":75,"titulo":"Combinatorics, Probability & Computing (Print)","issn":"0963-5483","estrato":"B2"}
+{"_id":76,"titulo":"Communications in Computer and Information Science (Print)","issn":"1865-0929","estrato":"B3"}
+{"_id":77,"titulo":"Compel (Bradford)","issn":"0332-1649","estrato":"B2"}
+{"_id":78,"titulo":"Computational & Applied Mathematics","issn":"1807-0302","estrato":"B2"}
+{"_id":79,"titulo":"Computational Biology and Chemistry (Print)","issn":"1476-9271","estrato":"B1"}
+{"_id":80,"titulo":"Computational Linguistics - Association For Computational Linguistics (Online)","issn":"1530-9312","estrato":"A2"}
+{"_id":81,"titulo":"Computational Optimization and Applications","issn":"0926-6003","estrato":"B1"}
+{"_id":82,"titulo":"Computational and Mathematical Organization Theory","issn":"1381-298X","estrato":"B2"}
+{"_id":83,"titulo":"Computer (Long Beach, Calif. Print)","issn":"0018-9162","estrato":"A1"}
+{"_id":84,"titulo":"Computer Applications in Engineering Education","issn":"1061-3773","estrato":"B3"}
+{"_id":85,"titulo":"Computer Communications","issn":"0140-3664","estrato":"A2"}
+{"_id":86,"titulo":"Computer Graphics Forum (Print)","issn":"0167-7055","estrato":"A2"}
+{"_id":87,"titulo":"Computer Journal (Print)","issn":"out/20","estrato":"B1"}
+{"_id":88,"titulo":"Computer Languages, Systems & Structures","issn":"1477-8424","estrato":"B3"}
+{"_id":89,"titulo":"Computer Methods and Programs in Biomedicine (Print)","issn":"0169-2607","estrato":"B1"}
+{"_id":90,"titulo":"Computer Methods in Applied Mechanics and Engineering","issn":"0045-7825","estrato":"A1"}
+{"_id":91,"titulo":"Computer Networks (1999)","issn":"1389-1286","estrato":"A2"}
+{"_id":92,"titulo":"Computer Physics Communications","issn":"out/55","estrato":"A1"}
+{"_id":93,"titulo":"Computer Science and Engineering","issn":"2163-1492","estrato":"C"}
+{"_id":94,"titulo":"Computer Standards & Interfaces","issn":"0920-5489","estrato":"B1"}
+{"_id":95,"titulo":"Computer Supported Cooperative Work","issn":"0925-9724","estrato":"B1"}
+{"_id":96,"titulo":"Computer Technology and Application","issn":"1934-7332","estrato":"C"}
+{"_id":97,"titulo":"Computer Vision and Image Understanding (Print)","issn":"1077-3142","estrato":"A1"}
+{"_id":98,"titulo":"Computerized Medical Imaging and Graphics","issn":"0895-6111","estrato":"B1"}
+{"_id":99,"titulo":"Computers & Chemical Engineering","issn":"0098-1354","estrato":"A1"}
+{"_id":100,"titulo":"Computers & Electrical Engineering","issn":"0045-7906","estrato":"B2"}
+{"_id":101,"titulo":"Computers & Fluids","issn":"0045-7930","estrato":"A2"}
+{"_id":102,"titulo":"Computers & Graphics","issn":"0097-8493","estrato":"B1"}
+{"_id":103,"titulo":"Computers & Industrial Engineering","issn":"0360-8352","estrato":"A2"}
+{"_id":104,"titulo":"Computers & Operations Research","issn":"0305-0548","estrato":"A1"}
+{"_id":105,"titulo":"Computers and Electronics in Agriculture","issn":"0168-1699","estrato":"A2"}
+{"_id":106,"titulo":"Computers in Biology and Medicine","issn":"out/25","estrato":"B1"}
+{"_id":107,"titulo":"Computers in Entertainment","issn":"1544-3574","estrato":"B2"}
+{"_id":108,"titulo":"Computers in Human Behavior","issn":"0747-5632","estrato":"A2"}
+{"_id":109,"titulo":"Computers in Industry","issn":"0166-3615","estrato":"A2"}
+{"_id":110,"titulo":"Computing (Wien. Internet)","issn":"1436-5057","estrato":"B1"}
+{"_id":111,"titulo":"Computing (Wien. Print)","issn":"0010-485X","estrato":"B1"}
+{"_id":112,"titulo":"Computing and Informatics","issn":"1335-9150","estrato":"B3"}
+{"_id":113,"titulo":"Computing in Science & Engineering (Print)","issn":"1521-9615","estrato":"B1"}
+{"_id":114,"titulo":"Concurrency and Computation","issn":"1532-0626","estrato":"B2"}
+{"_id":115,"titulo":"Control Engineering Practice","issn":"0967-0661","estrato":"A2"}
+{"_id":116,"titulo":"Corrosion Science","issn":"0010-938X","estrato":"B2"}
+{"_id":117,"titulo":"Creative Education","issn":"2151-4755","estrato":"C"}
+{"_id":118,"titulo":"Crop Science","issn":"0011-183X","estrato":"B3"}
+{"_id":119,"titulo":"Culturas Midiáticas","issn":"1983-5930","estrato":"C"}
+{"_id":120,"titulo":"Current Medicinal Chemistry","issn":"0929-8673","estrato":"B2"}
+{"_id":121,"titulo":"Cyber Journals: Multidisciplinary Journals in Science and Technology","issn":"1925-2676","estrato":"C"}
+{"_id":122,"titulo":"Cybernetics & Human Knowing","issn":"0907-0877","estrato":"C"}
+{"_id":123,"titulo":"Cytometry. Part A","issn":"1552-4922","estrato":"B2"}
+{"_id":124,"titulo":"Data & Knowledge Engineering","issn":"0169-023X","estrato":"A2"}
+{"_id":125,"titulo":"Decision Support Systems","issn":"0167-9236","estrato":"A2"}
+{"_id":126,"titulo":"Dementia & Neuropsychologia","issn":"1980-5764","estrato":"B5"}
+{"_id":127,"titulo":"Disciplinarum Scientia. Série Ciências Naturais e Tecnológicas","issn":"2176-462X","estrato":"C"}
+{"_id":128,"titulo":"Discrete Applied Mathematics","issn":"0166-218X","estrato":"B1"}
+{"_id":129,"titulo":"Discrete Mathematics","issn":"0012-365X","estrato":"B1"}
+{"_id":130,"titulo":"Discrete Mathematics and Theoretical Computer Science (Online)","issn":"1365-8050","estrato":"B3"}
+{"_id":131,"titulo":"Discrete Mathematics, Algorithms and Applications","issn":"1793-8309","estrato":"B5"}
+{"_id":132,"titulo":"Drug and Alcohol Dependence","issn":"0376-8716","estrato":"B2"}
+{"_id":133,"titulo":"E.T.C. Educação, Tecnologia e Cultura","issn":"1808-0588","estrato":"B5"}
+{"_id":134,"titulo":"ELCVIA. Electronic letters on computer vision and image analysis","issn":"1577-5097","estrato":"B5"}
+{"_id":135,"titulo":"EURASIP Journal on Audio, Speech and Music Processing (Print)","issn":"1687-4714","estrato":"B5"}
+{"_id":136,"titulo":"Earth Science Informatics (Print)","issn":"1865-0473","estrato":"B2"}
+{"_id":137,"titulo":"Ecography (Copenhagen)","issn":"0906-7590","estrato":"B1"}
+{"_id":138,"titulo":"Ecological Informatics (Print)","issn":"1574-9541","estrato":"B1"}
+{"_id":139,"titulo":"Educar em Revista (Impresso)","issn":"0104-4060","estrato":"C"}
+{"_id":140,"titulo":"Electric Power Systems Research (Print)","issn":"0378-7796","estrato":"B3"}
+{"_id":141,"titulo":"Electrochimica Acta","issn":"0013-4686","estrato":"B2"}
+{"_id":142,"titulo":"Electronic Communications of the EASST","issn":"1863-2122","estrato":"B5"}
+{"_id":143,"titulo":"Electronic Notes in Theoretical Computer Science","issn":"1571-0661","estrato":"C"}
+{"_id":144,"titulo":"Electronics Letters","issn":"0013-5194","estrato":"A1"}
+{"_id":145,"titulo":"Elsevier (Amsterdam)","issn":"0922-3444","estrato":"C"}
+{"_id":146,"titulo":"Em Debate (Belo Horizonte)","issn":"2176-4883","estrato":"C"}
+{"_id":147,"titulo":"Em Questão","issn":"1808-5245","estrato":"C"}
+{"_id":148,"titulo":"Emergence (Mahwah, N.J.)","issn":"1521-3250","estrato":"B5"}
+{"_id":149,"titulo":"Empirical Software Engineering","issn":"1382-3256","estrato":"B1"}
+{"_id":150,"titulo":"Empirical Software Engineering (Dordrecht. Online)","issn":"1573-7616","estrato":"B1"}
+{"_id":151,"titulo":"Energies (Basel)","issn":"1996-1073","estrato":"B3"}
+{"_id":152,"titulo":"Engenharia de Software Magazine","issn":"1983-1277","estrato":"C"}
+{"_id":153,"titulo":"Engineering Applications of Artificial Intelligence","issn":"0952-1976","estrato":"B1"}
+{"_id":154,"titulo":"Engineering Research","issn":"2179-7625","estrato":"C"}
+{"_id":155,"titulo":"Engineering with Computers","issn":"0177-0667","estrato":"B1"}
+{"_id":156,"titulo":"Entertainment Computing","issn":"1875-9521","estrato":"B4"}
+{"_id":157,"titulo":"Entropy (Basel. Online)","issn":"1099-4300","estrato":"B3"}
+{"_id":158,"titulo":"Environmental Monitoring and Assessment (Print)","issn":"0167-6369","estrato":"B3"}
+{"_id":159,"titulo":"Environmental and Ecological Statistics","issn":"1352-8505","estrato":"B4"}
+{"_id":160,"titulo":"Epilepsia (Copenhagen)","issn":"0013-9580","estrato":"B1"}
+{"_id":161,"titulo":"Etcétera: política e multidisciplinariedade","issn":"2358-4955","estrato":"C"}
+{"_id":162,"titulo":"European Journal of Combinatorics (Print)","issn":"0195-6698","estrato":"B1"}
+{"_id":163,"titulo":"European Journal of Medicinal Chemistry","issn":"0223-5234","estrato":"B2"}
+{"_id":164,"titulo":"European Journal of Operational Research","issn":"0377-2217","estrato":"A1"}
+{"_id":165,"titulo":"European Psychiatry (Paris)","issn":"0924-9338","estrato":"B2"}
+{"_id":166,"titulo":"Evolutionary Computation (Online)","issn":"1530-9304","estrato":"A2"}
+{"_id":167,"titulo":"Exacta (Online)","issn":"1983-9308","estrato":"C"}
+{"_id":168,"titulo":"Exacta (São Paulo. Impresso)","issn":"1678-5428","estrato":"C"}
+{"_id":169,"titulo":"Expert Systems with Applications","issn":"0957-4174","estrato":"A2"}
+{"_id":170,"titulo":"FLF.EDU","issn":"1677-0323","estrato":"C"}
+{"_id":171,"titulo":"Far East Journal of Mathematical Sciences: FJMS","issn":"0972-0871","estrato":"B5"}
+{"_id":172,"titulo":"First Monday (Online)","issn":"1396-0466","estrato":"B1"}
+{"_id":173,"titulo":"Fisioterapia em Movimento (PUCPR. Impresso)","issn":"0103-5150","estrato":"C"}
+{"_id":174,"titulo":"Food Research International","issn":"0963-9969","estrato":"B2"}
+{"_id":175,"titulo":"Frontiers in Genetics","issn":"1664-8021","estrato":"B5"}
+{"_id":176,"titulo":"Future Generation Computer Systems","issn":"0167-739X","estrato":"A2"}
+{"_id":177,"titulo":"Fuzzy Sets and Systems","issn":"0165-0114","estrato":"A1"}
+{"_id":178,"titulo":"GIScience and Remote Sensing","issn":"1548-1603","estrato":"B3"}
+{"_id":179,"titulo":"Gene (Amsterdam)","issn":"0378-1119","estrato":"B3"}
+{"_id":180,"titulo":"Genetics and Molecular Research","issn":"1676-5680","estrato":"B4"}
+{"_id":181,"titulo":"Genome Announcements","issn":"2169-8287","estrato":"C"}
+{"_id":182,"titulo":"Geoinformatica (Dordrecht)","issn":"1384-6175","estrato":"B1"}
+{"_id":183,"titulo":"Geoinformatica (Dordrecht. Online)","issn":"1573-7624","estrato":"B1"}
+{"_id":184,"titulo":"Haemophilia (Oxford. Print)","issn":"1351-8216","estrato":"B3"}
+{"_id":185,"titulo":"Holos (Natal. Online)","issn":"1807-1600","estrato":"C"}
+{"_id":186,"titulo":"Horizonte Científico (Uberlândia)","issn":"1808-3064","estrato":"C"}
+{"_id":187,"titulo":"Human Mutation","issn":"1059-7794","estrato":"B1"}
+{"_id":188,"titulo":"Hygeia : Revista Brasileira de Geografia Médica e da Saúde (Uberlândia)","issn":"1980-1726","estrato":"C"}
+{"_id":189,"titulo":"I R B M News","issn":"1959-0318","estrato":"B5"}
+{"_id":190,"titulo":"IADIS International Journal on WWW/Internet","issn":"1645-7641","estrato":"C"}
+{"_id":191,"titulo":"IEEE Communications Letters (Print)","issn":"1089-7798","estrato":"A1"}
+{"_id":192,"titulo":"IEEE Communications Magazine (Print)","issn":"0163-6804","estrato":"A1"}
+{"_id":193,"titulo":"IEEE Communications Surveys and Tutorials","issn":"1553-877X","estrato":"A1"}
+{"_id":194,"titulo":"IEEE Computer Graphics and Applications","issn":"0272-1716","estrato":"A2"}
+{"_id":195,"titulo":"IEEE Intelligent Systems","issn":"1541-1672","estrato":"A2"}
+{"_id":196,"titulo":"IEEE Internet Computing","issn":"1089-7801","estrato":"A2"}
+{"_id":197,"titulo":"IEEE Multimedia","issn":"1070-986X","estrato":"B1"}
+{"_id":198,"titulo":"IEEE Network","issn":"0890-8044","estrato":"A1"}
+{"_id":199,"titulo":"IEEE Robotics & Automation Magazine","issn":"1070-9932","estrato":"A2"}
+{"_id":200,"titulo":"IEEE Signal Processing Letters","issn":"1070-9908","estrato":"A2"}
+{"_id":201,"titulo":"IEEE Software","issn":"0740-7459","estrato":"A2"}
+{"_id":202,"titulo":"IEEE Transactions on Circuits and Systems for Video Technology (Print)","issn":"1051-8215","estrato":"A1"}
+{"_id":203,"titulo":"IEEE Transactions on Circuits and Systems. I, Regular Papers (Print)","issn":"1549-8328","estrato":"A2"}
+{"_id":204,"titulo":"IEEE Transactions on Communications (Print)","issn":"0090-6778","estrato":"A1"}
+{"_id":205,"titulo":"IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems","issn":"0278-0070","estrato":"A2"}
+{"_id":206,"titulo":"IEEE Transactions on Computers (Print)","issn":"0018-9340","estrato":"A2"}
+{"_id":207,"titulo":"IEEE Transactions on Consumer Electronics","issn":"0098-3063","estrato":"A2"}
+{"_id":208,"titulo":"IEEE Transactions on Cybernetics","issn":"2168-2267","estrato":"B5"}
+{"_id":209,"titulo":"IEEE Transactions on Evolutionary Computation","issn":"1089-778X","estrato":"A1"}
+{"_id":210,"titulo":"IEEE Transactions on Fuzzy Systems","issn":"1063-6706","estrato":"A1"}
+{"_id":211,"titulo":"IEEE Transactions on Geoscience and Remote Sensing","issn":"0196-2892","estrato":"A1"}
+{"_id":212,"titulo":"IEEE Transactions on Image Processing","issn":"1057-7149","estrato":"A1"}
+{"_id":213,"titulo":"IEEE Transactions on Information Forensics and Security","issn":"1556-6013","estrato":"A2"}
+{"_id":214,"titulo":"IEEE Transactions on Knowledge and Data Engineering (Print)","issn":"1041-4347","estrato":"A1"}
+{"_id":215,"titulo":"IEEE Transactions on Magnetics","issn":"0018-9464","estrato":"B4"}
+{"_id":216,"titulo":"IEEE Transactions on Medical Imaging (Print)","issn":"0278-0062","estrato":"A1"}
+{"_id":217,"titulo":"IEEE Transactions on Mobile Computing","issn":"1536-1233","estrato":"A2"}
+{"_id":218,"titulo":"IEEE Transactions on Multimedia","issn":"1520-9210","estrato":"A2"}
+{"_id":219,"titulo":"IEEE Transactions on Neural Networks and Learning Systems","issn":"2162-237X","estrato":"A1"}
+{"_id":220,"titulo":"IEEE Transactions on Nuclear Science","issn":"0018-9499","estrato":"B1"}
+{"_id":221,"titulo":"IEEE Transactions on Parallel and Distributed Systems (Print)","issn":"1045-9219","estrato":"A2"}
+{"_id":222,"titulo":"IEEE Transactions on Power Systems","issn":"0885-8950","estrato":"B2"}
+{"_id":223,"titulo":"IEEE Transactions on Software Engineering","issn":"0098-5589","estrato":"A1"}
+{"_id":224,"titulo":"IEEE Transactions on Systems, Man and Cybernetics. Part A. Systems and Humans","issn":"1083-4427","estrato":"A2"}
+{"_id":225,"titulo":"IEEE Transactions on Systems, Man and Cybernetics. Part C, Applications and Reviews","issn":"1094-6977","estrato":"A2"}
+{"_id":226,"titulo":"IEEE Transactions on Vehicular Technology","issn":"0018-9545","estrato":"A1"}
+{"_id":227,"titulo":"IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Print)","issn":"1063-8210","estrato":"A2"}
+{"_id":228,"titulo":"IEEE Transactions on Visualization and Computer Graphics","issn":"1077-2626","estrato":"A2"}
+{"_id":229,"titulo":"IEEE Transactions on Wireless Communications","issn":"1536-1276","estrato":"A1"}
+{"_id":230,"titulo":"IEEE Wireless Communications","issn":"1536-1284","estrato":"A1"}
+{"_id":231,"titulo":"IEEE Wireless Communications Letters","issn":"2162-2337","estrato":"B4"}
+{"_id":232,"titulo":"IEEE eTransactions on Network and Service Management","issn":"1932-4537","estrato":"B3"}
+{"_id":233,"titulo":"IEEE-RITA","issn":"1932-8540","estrato":"B5"}
+{"_id":234,"titulo":"IEEE/ACM Transactions on Computational Biology and Bioinformatics (Print)","issn":"1545-5963","estrato":"B1"}
+{"_id":235,"titulo":"IEICE Transactions on Information and Systems","issn":"0916-8532","estrato":"B1"}
+{"_id":236,"titulo":"IET Computers & Digital Techniques (Online)","issn":"1751-861X","estrato":"B1"}
+{"_id":237,"titulo":"IET Computers & Digital Techniques (Print)","issn":"1751-8601","estrato":"B1"}
+{"_id":238,"titulo":"IET Software (Print)","issn":"1751-8806","estrato":"B1"}
+{"_id":239,"titulo":"INFORMS Journal on Computing","issn":"1091-9856","estrato":"B1"}
+{"_id":240,"titulo":"INFORMS Journal on Computing (Online)","issn":"1526-5528","estrato":"B1"}
+{"_id":241,"titulo":"ISRN Communications and Networking","issn":"2090-4355","estrato":"C"}
+{"_id":242,"titulo":"Iberoamerican Journal of Applied Computing","issn":"2237-4523","estrato":"B5"}
+{"_id":243,"titulo":"Image and Vision Computing","issn":"0262-8856","estrato":"A1"}
+{"_id":244,"titulo":"InCantare","issn":"2317-417X","estrato":"C"}
+{"_id":245,"titulo":"Infodesign (SBDI. Online)","issn":"1808-5377","estrato":"B5"}
+{"_id":246,"titulo":"Informacion Tecnologica","issn":"0718-0764","estrato":"B4"}
+{"_id":247,"titulo":"Informatics in Education","issn":"1648-5831","estrato":"B4"}
+{"_id":248,"titulo":"Information Fusion (Print)","issn":"1566-2535","estrato":"A1"}
+{"_id":249,"titulo":"Information Management & Computer Security","issn":"0968-5227","estrato":"B2"}
+{"_id":250,"titulo":"Information Processing & Management","issn":"0306-4573","estrato":"A2"}
+{"_id":251,"titulo":"Information Processing Letters (Print)","issn":"0020-0190","estrato":"B1"}
+{"_id":252,"titulo":"Information Retrieval (Boston)","issn":"1386-4564","estrato":"B1"}
+{"_id":253,"titulo":"Information Sciences","issn":"0020-0255","estrato":"A1"}
+{"_id":254,"titulo":"Information and Computation (Print)","issn":"0890-5401","estrato":"B1"}
+{"_id":255,"titulo":"Information and Software Technology","issn":"0950-5849","estrato":"B1"}
+{"_id":256,"titulo":"Informação & Informação (UEL. Online)","issn":"1981-8920","estrato":"C"}
+{"_id":257,"titulo":"Integrated Computer-Aided Engineering","issn":"1069-2509","estrato":"A1"}
+{"_id":258,"titulo":"Intelligent Data Analysis (Print)","issn":"1088-467X","estrato":"B1"}
+{"_id":259,"titulo":"Interactive Technology and Smart Education","issn":"1741-5659","estrato":"B5"}
+{"_id":260,"titulo":"Interdisciplinary Journal of E-learning and Learning Objects","issn":"1552-2210","estrato":"C"}
+{"_id":261,"titulo":"Interface (Botucatu. Impresso)","issn":"1414-3283","estrato":"C"}
+{"_id":262,"titulo":"International Journal of Advanced Technology in Engineering and Science","issn":"2348-7550","estrato":"C"}
+{"_id":263,"titulo":"International Journal of AgriScience","issn":"2228-6322","estrato":"C"}
+{"_id":264,"titulo":"International Journal of Applied Electromagnetics and Mechanics","issn":"1383-5416","estrato":"B5"}
+{"_id":265,"titulo":"International Journal of Approximate Reasoning","issn":"0888-613X","estrato":"B1"}
+{"_id":266,"titulo":"International Journal of Business Process Integration and Management (Print)","issn":"1741-8763","estrato":"B3"}
+{"_id":267,"titulo":"International Journal of Computational Science and Engineering","issn":"1742-7185","estrato":"B4"}
+{"_id":268,"titulo":"International Journal of Computer Applications","issn":"0975-8887","estrato":"C"}
+{"_id":269,"titulo":"International Journal of Computer Architecture Education","issn":"2316-9915","estrato":"B5"}
+{"_id":270,"titulo":"International Journal of Computer Games Technology","issn":"1687-7047","estrato":"B4"}
+{"_id":271,"titulo":"International Journal of Computer Information Systems and Industrial Management Applications","issn":"2150-7988","estrato":"B5"}
+{"_id":272,"titulo":"International Journal of Computer Networks and Communications","issn":"0974-9322","estrato":"C"}
+{"_id":273,"titulo":"International Journal of Computer Science and Applications (Online)","issn":"0972-9038","estrato":"B4"}
+{"_id":274,"titulo":"International Journal of Computer Science and Information Technology (Print)","issn":"0975-4660","estrato":"C"}
+{"_id":275,"titulo":"International Journal of Computer Science and Network Security","issn":"1738-7906","estrato":"C"}
+{"_id":276,"titulo":"International Journal of Computer Theory and Engineering","issn":"1793-8201","estrato":"C"}
+{"_id":277,"titulo":"International Journal of Computers & Applications","issn":"1206-212X","estrato":"B4"}
+{"_id":278,"titulo":"International Journal of Control Science and Engineering","issn":"2168-4960","estrato":"C"}
+{"_id":279,"titulo":"International Journal of Distance Education Technologies","issn":"1539-3100","estrato":"B4"}
+{"_id":280,"titulo":"International Journal of Distributed Sensor Networks","issn":"1550-1329","estrato":"B2"}
+{"_id":281,"titulo":"International Journal of Distributed Sensor Networks (Online)","issn":"1550-1477","estrato":"B2"}
+{"_id":282,"titulo":"International Journal of Electrical Power & Energy Systems","issn":"0142-0615","estrato":"B5"}
+{"_id":283,"titulo":"International Journal of Electronic Government Research","issn":"1548-3886","estrato":"B4"}
+{"_id":284,"titulo":"International Journal of Electronics (Online)","issn":"1362-3060","estrato":"B1"}
+{"_id":285,"titulo":"International Journal of Embedded and Real-Time Communication Systems","issn":"1947-3176","estrato":"B4"}
+{"_id":286,"titulo":"International Journal of Engineering Education","issn":"0949-149X","estrato":"B5"}
+{"_id":287,"titulo":"International Journal of Engineering Science","issn":"0020-7225","estrato":"B3"}
+{"_id":288,"titulo":"International Journal of Engineering and Technology (IJET)","issn":"1793-8236","estrato":"C"}
+{"_id":289,"titulo":"International Journal of Environmental Research and Public Health","issn":"1660-4601","estrato":"B3"}
+{"_id":290,"titulo":"International Journal of Fuzzy Systems","issn":"1562-2479","estrato":"B1"}
+{"_id":291,"titulo":"International Journal of Geographical Information Science (Print)","issn":"1365-8816","estrato":"A2"}
+{"_id":292,"titulo":"International Journal of Hybrid Intelligent Systems","issn":"1448-5869","estrato":"B5"}
+{"_id":293,"titulo":"International Journal of Image and Graphics","issn":"0219-4678","estrato":"B5"}
+{"_id":294,"titulo":"International Journal of Information Security (Print)","issn":"1615-5262","estrato":"B2"}
+{"_id":295,"titulo":"International Journal of Information Technology and Computer Science","issn":"2074-9007","estrato":"C"}
+{"_id":296,"titulo":"International Journal of Information Technology, Communications and Convergence","issn":"2042-3217","estrato":"C"}
+{"_id":297,"titulo":"International Journal of Information and Communication Technology Education","issn":"1550-1876","estrato":"B4"}
+{"_id":298,"titulo":"International Journal of Innovative Computing and Applications (Print)","issn":"1751-648X","estrato":"B4"}
+{"_id":299,"titulo":"International Journal of Innovative Computing, Information & Control","issn":"1349-4198","estrato":"B1"}
+{"_id":300,"titulo":"International Journal of Intelligent Systems (Print)","issn":"0884-8173","estrato":"B1"}
+{"_id":301,"titulo":"International Journal of Knowledge Society Research","issn":"1947-8429","estrato":"C"}
+{"_id":302,"titulo":"International Journal of Logistics Systems and Management (Print)","issn":"1742-7967","estrato":"B5"}
+{"_id":303,"titulo":"International Journal of Materials & Product Technology","issn":"0268-1900","estrato":"B5"}
+{"_id":304,"titulo":"International Journal of Mathematical Analysis","issn":"1312-8876","estrato":"B5"}
+{"_id":305,"titulo":"International Journal of Metadata, Semantics and Ontologies (Print)","issn":"1744-2621","estrato":"B3"}
+{"_id":306,"titulo":"International Journal of Modern Engineering Research","issn":"2249-6645","estrato":"C"}
+{"_id":307,"titulo":"International Journal of Modern Physics C","issn":"0129-1831","estrato":"B4"}
+{"_id":308,"titulo":"International Journal of Molecular Sciences (Online)","issn":"1422-0067","estrato":"B3"}
+{"_id":309,"titulo":"International Journal of Natural Computing Research","issn":"1947-928X","estrato":"B5"}
+{"_id":310,"titulo":"International Journal of Networking and Computing","issn":"2185-2839","estrato":"C"}
+{"_id":311,"titulo":"International Journal of Numerical Modelling (Print)","issn":"0894-3370","estrato":"B2"}
+{"_id":312,"titulo":"International Journal of Parallel Programming","issn":"0885-7458","estrato":"B2"}
+{"_id":313,"titulo":"International Journal of Parallel, Emergent and Distributed Systems (Print)","issn":"1744-5760","estrato":"B3"}
+{"_id":314,"titulo":"International Journal of Performance Analysis in Sport","issn":"1474-8185","estrato":"B4"}
+{"_id":315,"titulo":"International Journal of Physical Education","issn":"0341-8685","estrato":"C"}
+{"_id":316,"titulo":"International Journal of Production Research (Print)","issn":"0020-7543","estrato":"A2"}
+{"_id":317,"titulo":"International Journal of Reconfigurable Computing (Print)","issn":"1687-7195","estrato":"B4"}
+{"_id":318,"titulo":"International Journal of Scientific and Engineering Research","issn":"2229-5518","estrato":"C"}
+{"_id":319,"titulo":"International Journal of Security and Networks (Print)","issn":"1747-8405","estrato":"B3"}
+{"_id":320,"titulo":"International Journal of Software Engineering & Applications (IJSEA)","issn":"0975-9018","estrato":"C"}
+{"_id":321,"titulo":"International Journal of Software Engineering and Knowledge Engineering","issn":"0218-1940","estrato":"B2"}
+{"_id":322,"titulo":"International Journal of Theoretical Physics","issn":"0020-7748","estrato":"B4"}
+{"_id":323,"titulo":"International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems","issn":"0218-4885","estrato":"B1"}
+{"_id":324,"titulo":"International Journal of Web Based Communities (Print)","issn":"1477-8394","estrato":"B3"}
+{"_id":325,"titulo":"International Journal of Web Engineering and Technology","issn":"1476-1289","estrato":"B3"}
+{"_id":326,"titulo":"International Journal of Web Services Research","issn":"1545-7362","estrato":"B2"}
+{"_id":327,"titulo":"International Journal of Wireless Communications and Mobile Computing","issn":"2330-1007","estrato":"C"}
+{"_id":328,"titulo":"International Journal of Wireless Information Networks","issn":"1068-9605","estrato":"B2"}
+{"_id":329,"titulo":"International Journal on E-Learning","issn":"1537-2456","estrato":"B5"}
+{"_id":330,"titulo":"International Journal: Emerging Technologies in Learning","issn":"1863-0383","estrato":"C"}
+{"_id":331,"titulo":"International Transactions in Operational Research","issn":"0969-6016","estrato":"B2"}
+{"_id":332,"titulo":"International journal on advances in intelligent systems.","issn":"1942-2679","estrato":"C"}
+{"_id":333,"titulo":"Inverse Problems (Print)","issn":"0266-5611","estrato":"B3"}
+{"_id":334,"titulo":"JASSS (Guildford)","issn":"1460-7425","estrato":"B2"}
+{"_id":335,"titulo":"JICS. Journal of Integrated Circuits and Systems (Ed. Português)","issn":"1807-1953","estrato":"B4"}
+{"_id":336,"titulo":"JMIR. Journal of Medical Internet Research","issn":"1438-8871","estrato":"A1"}
+{"_id":337,"titulo":"Java magazine","issn":"1676-8361","estrato":"C"}
+{"_id":338,"titulo":"Journal of Accessibility and Design for All","issn":"2013-7087","estrato":"C"}
+{"_id":339,"titulo":"Journal of Aerospace Technology and Management (Online)","issn":"2175-9146","estrato":"B5"}
+{"_id":340,"titulo":"Journal of Applied Geophysics","issn":"0926-9851","estrato":"B4"}
+{"_id":341,"titulo":"Journal of Applied Logic","issn":"1570-8683","estrato":"B2"}
+{"_id":342,"titulo":"Journal of Applied Mathematics","issn":"1110-757X","estrato":"B5"}
+{"_id":343,"titulo":"Journal of Applied Mathematics and Physics","issn":"2327-4352","estrato":"C"}
+{"_id":344,"titulo":"Journal of Approximation Theory (Print)","issn":"0021-9045","estrato":"B4"}
+{"_id":345,"titulo":"Journal of Bioinformatics and Computational Biology (Print)","issn":"0219-7200","estrato":"B1"}
+{"_id":346,"titulo":"Journal of Biomedical Informatics","issn":"1532-0464","estrato":"A2"}
+{"_id":347,"titulo":"Journal of Biomedicine and Biotechnology (Print)","issn":"1110-7243","estrato":"B2"}
+{"_id":348,"titulo":"Journal of Cardiovascular Magnetic Resonance","issn":"1532-429X","estrato":"B5"}
+{"_id":349,"titulo":"Journal of Combinatorial Optimization","issn":"1382-6905","estrato":"B1"}
+{"_id":350,"titulo":"Journal of Combinatorial Theory. Series B (Print)","issn":"0095-8956","estrato":"B1"}
+{"_id":351,"titulo":"Journal of Communication and Computer","issn":"1548-7709","estrato":"C"}
+{"_id":352,"titulo":"Journal of Communication and Information Systems (Online)","issn":"1980-6604","estrato":"C"}
+{"_id":353,"titulo":"Journal of Computational Physics (Print)","issn":"0021-9991","estrato":"A1"}
+{"_id":354,"titulo":"Journal of Computational Science","issn":"1877-7503","estrato":"B1"}
+{"_id":355,"titulo":"Journal of Computational and Applied Mathematics","issn":"0377-0427","estrato":"A2"}
+{"_id":356,"titulo":"Journal of Computational and Theoretical Nanoscience","issn":"1546-1955","estrato":"B1"}
+{"_id":357,"titulo":"Journal of Computer Assisted Tomography (Online)","issn":"1532-3145","estrato":"A2"}
+{"_id":358,"titulo":"Journal of Computer Science and Technology","issn":"1000-9000","estrato":"B2"}
+{"_id":359,"titulo":"Journal of Computer Science and Technology (La Plata. En línea)","issn":"1666-6038","estrato":"C"}
+{"_id":360,"titulo":"Journal of Computer Sciences","issn":"1549-3636","estrato":"B3"}
+{"_id":361,"titulo":"Journal of Computer and System Sciences (Print)","issn":"0022-0000","estrato":"A2"}
+{"_id":362,"titulo":"Journal of Control, Automation and Electrical Systems","issn":"2195-3899","estrato":"B5"}
+{"_id":363,"titulo":"Journal of Convergence Information Technology (Gyeongju)","issn":"1975-9320","estrato":"B2"}
+{"_id":364,"titulo":"Journal of Cryptographic Engineering","issn":"2190-8508","estrato":"B4"}
+{"_id":365,"titulo":"Journal of Data Science (Online)","issn":"1683-8602","estrato":"C"}
+{"_id":366,"titulo":"Journal of Digital Imaging","issn":"0897-1889","estrato":"B1"}
+{"_id":367,"titulo":"Journal of Elasticity","issn":"0374-3535","estrato":"B4"}
+{"_id":368,"titulo":"Journal of Electronic Imaging (Print)","issn":"1017-9909","estrato":"B1"}
+{"_id":369,"titulo":"Journal of Electronic Testing","issn":"0923-8174","estrato":"B2"}
+{"_id":370,"titulo":"Journal of Emerging Technologies in Web Intelligence","issn":"1798-0461","estrato":"B4"}
+{"_id":371,"titulo":"Journal of Food Science","issn":"0022-1147","estrato":"B3"}
+{"_id":372,"titulo":"Journal of Global Information Management","issn":"1062-7375","estrato":"B2"}
+{"_id":373,"titulo":"Journal of Global Optimization","issn":"0925-5001","estrato":"A2"}
+{"_id":374,"titulo":"Journal of Global Optimization (Dordrecht. Online)","issn":"1573-2916","estrato":"A2"}
+{"_id":375,"titulo":"Journal of Graph Theory (Print)","issn":"0364-9024","estrato":"B1"}
+{"_id":376,"titulo":"Journal of Grid Computing","issn":"1570-7873","estrato":"B1"}
+{"_id":377,"titulo":"Journal of Health Informatics","issn":"2175-4411","estrato":"B5"}
+{"_id":378,"titulo":"Journal of Heuristics","issn":"1381-1231","estrato":"B1"}
+{"_id":379,"titulo":"Journal of Information Assurance and Security","issn":"1554-1010","estrato":"B5"}
+{"_id":380,"titulo":"Journal of Information and Data Management","issn":"2166-6261","estrato":"C"}
+{"_id":381,"titulo":"Journal of Insect Behavior","issn":"0892-7553","estrato":"B4"}
+{"_id":382,"titulo":"Journal of Integrated Design & Process Science","issn":"1092-0617","estrato":"B5"}
+{"_id":383,"titulo":"Journal of Intelligent & Fuzzy Systems","issn":"1064-1246","estrato":"B2"}
+{"_id":384,"titulo":"Journal of Intelligent & Robotic Systems","issn":"0921-0296","estrato":"B1"}
+{"_id":385,"titulo":"Journal of Intelligent Computing","issn":"0976-9005","estrato":"B5"}
+{"_id":386,"titulo":"Journal of Intelligent Information Systems","issn":"0925-9902","estrato":"B1"}
+{"_id":387,"titulo":"Journal of Internet Services and Applications","issn":"1869-0238","estrato":"B4"}
+{"_id":388,"titulo":"Journal of Logic and Computation (Print)","issn":"0955-792X","estrato":"B1"}
+{"_id":389,"titulo":"Journal of Low Power Electronics (Print)","issn":"1546-1998","estrato":"B3"}
+{"_id":390,"titulo":"Journal of Materials Education","issn":"0738-7989","estrato":"B5"}
+{"_id":391,"titulo":"Journal of Medical Imaging and Health Informatics","issn":"2156-7018","estrato":"B2"}
+{"_id":392,"titulo":"Journal of Microwaves, Optoelectronics and Electromagnetic Applications","issn":"2179-1074","estrato":"B5"}
+{"_id":393,"titulo":"Journal of Modern Project Management","issn":"2317-3963","estrato":"C"}
+{"_id":394,"titulo":"Journal of Molecular Modeling (Print)","issn":"1610-2940","estrato":"B3"}
+{"_id":395,"titulo":"Journal of Molecular Structure (Print)","issn":"0022-2860","estrato":"B3"}
+{"_id":396,"titulo":"Journal of Multiple-Valued Logic and Soft Computing","issn":"1542-3980","estrato":"B2"}
+{"_id":397,"titulo":"Journal of Network and Computer Applications","issn":"1084-8045","estrato":"B1"}
+{"_id":398,"titulo":"Journal of Network and Systems Management","issn":"1064-7570","estrato":"B2"}
+{"_id":399,"titulo":"Journal of Optimization Theory and Applications","issn":"0022-3239","estrato":"A2"}
+{"_id":400,"titulo":"Journal of Optimization Theory and Applications (Dordrecht. Online)","issn":"1573-2878","estrato":"A2"}
+{"_id":401,"titulo":"Journal of Parallel and Distributed Computing (Print)","issn":"0743-7315","estrato":"B1"}
+{"_id":402,"titulo":"Journal of Physics. Conference Series (Online)","issn":"1742-6596","estrato":"C"}
+{"_id":403,"titulo":"Journal of Physics. Conference Series (Print)","issn":"1742-6588","estrato":"C"}
+{"_id":404,"titulo":"Journal of Proteome Research (Print)","issn":"1535-3893","estrato":"B1"}
+{"_id":405,"titulo":"Journal of Proteomics & Bioinformatics","issn":"0974-276X","estrato":"B4"}
+{"_id":406,"titulo":"Journal of Real-Time Image Processing (Print)","issn":"1861-8200","estrato":"B1"}
+{"_id":407,"titulo":"Journal of Research and Practice in Information Technology","issn":"1443-458X","estrato":"B3"}
+{"_id":408,"titulo":"Journal of Sensors","issn":"1687-725X","estrato":"B5"}
+{"_id":409,"titulo":"Journal of Signal Processing Systems for Signal, Image, and Video Technology","issn":"1939-8018","estrato":"B1"}
+{"_id":410,"titulo":"Journal of Software","issn":"1796-217X","estrato":"B3"}
+{"_id":411,"titulo":"Journal of Software Engineering Research and Development","issn":"2195-1721","estrato":"B5"}
+{"_id":412,"titulo":"Journal of Statistical Mechanics","issn":"1742-5468","estrato":"B3"}
+{"_id":413,"titulo":"Journal of Statistical Physics","issn":"0022-4715","estrato":"B4"}
+{"_id":414,"titulo":"Journal of Supercomputing","issn":"0920-8542","estrato":"B2"}
+{"_id":415,"titulo":"Journal of Systems Architecture","issn":"1383-7621","estrato":"B1"}
+{"_id":416,"titulo":"Journal of The American Society For Information Science and Technology (Online)","issn":"1532-2890","estrato":"A2"}
+{"_id":417,"titulo":"Journal of The Brazilian Computer Society (Online)","issn":"1678-4804","estrato":"B2"}
+{"_id":418,"titulo":"Journal of Transport Literature","issn":"2238-1031","estrato":"C"}
+{"_id":419,"titulo":"Journal of Universal Computer Science (Online)","issn":"0948-6968","estrato":"B1"}
+{"_id":420,"titulo":"Journal of Universal Computer Science (Print)","issn":"0948-695X","estrato":"B1"}
+{"_id":421,"titulo":"Journal of Visual Communication and Image Representation (Print)","issn":"1047-3203","estrato":"B1"}
+{"_id":422,"titulo":"Journal of Visualized Experiments","issn":"1940-087X","estrato":"B2"}
+{"_id":423,"titulo":"Journal of WSCG (Plzen, Print)","issn":"1213-6972","estrato":"B4"}
+{"_id":424,"titulo":"Journal of Zhejiang University. Science A (Print)","issn":"1673-565X","estrato":"B5"}
+{"_id":425,"titulo":"Journal of statistical software","issn":"1548-7660","estrato":"A1"}
+{"_id":426,"titulo":"Journal of the American Medical Informatics Association","issn":"1067-5027","estrato":"A1"}
+{"_id":427,"titulo":"Journal of the American Society for Information Science and Technology (Print)","issn":"1532-2882","estrato":"A2"}
+{"_id":428,"titulo":"Journal of the Brazilian Computer Society (Impresso)","issn":"0104-6500","estrato":"B2"}
+{"_id":429,"titulo":"Journal of the Brazilian Society of Mechanical Sciences and Engineering (Impresso)","issn":"1678-5878","estrato":"B5"}
+{"_id":430,"titulo":"Journal of the Operational Research Society","issn":"0160-5682","estrato":"A2"}
+{"_id":431,"titulo":"Journal on Data Semantics (Print)","issn":"1861-2032","estrato":"B5"}
+{"_id":432,"titulo":"Journal on Special Topics in Mobile Networks and Applications","issn":"1383-469X","estrato":"B1"}
+{"_id":433,"titulo":"Knowledge Cultures","issn":"2327-5731","estrato":"C"}
+{"_id":434,"titulo":"Knowledge Engineering Review (Online)","issn":"1469-8005","estrato":"B1"}
+{"_id":435,"titulo":"Knowledge Engineering Review (Print)","issn":"0269-8889","estrato":"B1"}
+{"_id":436,"titulo":"Knowledge and Information Systems (Print)","issn":"0219-1377","estrato":"B1"}
+{"_id":437,"titulo":"Knowledge-Based Systems","issn":"0950-7051","estrato":"A2"}
+{"_id":438,"titulo":"Learning & Memory","issn":"1072-0502","estrato":"B5"}
+{"_id":439,"titulo":"Learning and Nonlinear Models","issn":"1676-2789","estrato":"B5"}
+{"_id":440,"titulo":"Lecture Notes in Business Information Processing","issn":"1865-1348","estrato":"C"}
+{"_id":441,"titulo":"Lecture Notes in Computer Science","issn":"0302-9743","estrato":"C"}
+{"_id":442,"titulo":"Letrônica","issn":"1984-4301","estrato":"C"}
+{"_id":443,"titulo":"Library (London)","issn":"0024-2160","estrato":"B5"}
+{"_id":444,"titulo":"Linear Algebra and its Applications","issn":"0024-3795","estrato":"B4"}
+{"_id":445,"titulo":"Linguamática (Braga)","issn":"1647-0818","estrato":"C"}
+{"_id":446,"titulo":"Logic Journal of the IGPL (Online)","issn":"1368-9894","estrato":"B2"}
+{"_id":447,"titulo":"Logic Journal of the IGPL (Print)","issn":"1367-0751","estrato":"B2"}
+{"_id":448,"titulo":"Lubricants","issn":"2075-4442","estrato":"C"}
+{"_id":449,"titulo":"Machine Learning (Dordrecht. Online)","issn":"1573-0565","estrato":"A1"}
+{"_id":450,"titulo":"Machine Translation","issn":"0922-6567","estrato":"B3"}
+{"_id":451,"titulo":"Machine Vision and Applications","issn":"0932-8092","estrato":"B1"}
+{"_id":452,"titulo":"Machine Vision and Applications (Internet)","issn":"1432-1769","estrato":"B1"}
+{"_id":453,"titulo":"Matematica Contemporanea","issn":"0103-9059","estrato":"B5"}
+{"_id":454,"titulo":"Materials (Basel)","issn":"1996-1944","estrato":"B3"}
+{"_id":455,"titulo":"Materials Science & Engineering. C, Biomimetic Materials, Sensors and Systems (Print)","issn":"0928-4931","estrato":"B2"}
+{"_id":456,"titulo":"Mathematical Methods of Operations Research (Heidelberg)","issn":"1432-2994","estrato":"B1"}
+{"_id":457,"titulo":"Mathematical Problems in Engineering (Print)","issn":"1024-123X","estrato":"B4"}
+{"_id":458,"titulo":"Mathematical Programming","issn":"0025-5610","estrato":"A2"}
+{"_id":459,"titulo":"Mathematical Programming Computation","issn":"1867-2949","estrato":"B3"}
+{"_id":460,"titulo":"Mechatronics (Oxford)","issn":"0957-4158","estrato":"B1"}
+{"_id":461,"titulo":"Medical & Biological Engineering & Computing","issn":"0140-0118","estrato":"A2"}
+{"_id":462,"titulo":"Medical Image Analysis (Print)","issn":"1361-8415","estrato":"A1"}
+{"_id":463,"titulo":"Memetic Computing","issn":"1865-9284","estrato":"B3"}
+{"_id":464,"titulo":"Microelectronics Journal","issn":"0959-8324","estrato":"B1"}
+{"_id":465,"titulo":"Microelectronics and Reliability","issn":"0026-2714","estrato":"A2"}
+{"_id":466,"titulo":"Microporous and Mesoporous Materials (Print)","issn":"1387-1811","estrato":"B2"}
+{"_id":467,"titulo":"Microprocessors and Microsystems","issn":"0141-9331","estrato":"B2"}
+{"_id":468,"titulo":"Microwave and Optical Technology Letters (Print)","issn":"0895-2477","estrato":"B5"}
+{"_id":469,"titulo":"Middle East Journal of Culture and Communication","issn":"1873-9865","estrato":"C"}
+{"_id":470,"titulo":"Molecular & Cellular Proteomics (Online)","issn":"1535-9484","estrato":"B5"}
+{"_id":471,"titulo":"Multidimensional Systems and Signal Processing (Online)","issn":"1573-0824","estrato":"B2"}
+{"_id":472,"titulo":"Multimedia Systems","issn":"0942-4962","estrato":"B1"}
+{"_id":473,"titulo":"Multimedia Tools and Applications","issn":"1380-7501","estrato":"B1"}
+{"_id":474,"titulo":"Multimedia Tools and Applications (Dordrecht. Online)","issn":"1573-7721","estrato":"B1"}
+{"_id":475,"titulo":"NCSL International Measure: the journal of measurement science","issn":"1931-5775","estrato":"C"}
+{"_id":476,"titulo":"Networks (New York, N.Y. Print)","issn":"0028-3045","estrato":"B1"}
+{"_id":477,"titulo":"Neural Computation","issn":"0899-7667","estrato":"A1"}
+{"_id":478,"titulo":"Neural Computing & Applications (Print)","issn":"0941-0643","estrato":"B1"}
+{"_id":479,"titulo":"Neural Networks","issn":"0893-6080","estrato":"A1"}
+{"_id":480,"titulo":"Neurocomputing (Amsterdam)","issn":"0925-2312","estrato":"A2"}
+{"_id":481,"titulo":"Neuroimage (Orlando, Fla. Print)","issn":"1053-8119","estrato":"B1"}
+{"_id":482,"titulo":"Neuroinformatics (Totowa)","issn":"1539-2791","estrato":"A2"}
+{"_id":483,"titulo":"Neuroscience Letters (Print)","issn":"0304-3940","estrato":"B3"}
+{"_id":484,"titulo":"Nucleic Acids Research","issn":"0305-1048","estrato":"B1"}
+{"_id":485,"titulo":"Numerical Linear Algebra with Applications","issn":"1070-5325","estrato":"A2"}
+{"_id":486,"titulo":"Numerische Mathematik","issn":"0029-599X","estrato":"B1"}
+{"_id":487,"titulo":"OMICS: Journal of Integrative Biology","issn":"1536-2310","estrato":"B2"}
+{"_id":488,"titulo":"OR-Spektrum","issn":"0171-6468","estrato":"B1"}
+{"_id":489,"titulo":"Operating Systems Review","issn":"0163-5980","estrato":"B1"}
+{"_id":490,"titulo":"Optical Switching and Networking (Print)","issn":"1573-4277","estrato":"B2"}
+{"_id":491,"titulo":"Optics Express","issn":"1094-4087","estrato":"B2"}
+{"_id":492,"titulo":"Optimization (Print)","issn":"0233-1934","estrato":"B2"}
+{"_id":493,"titulo":"Optimization Letters (Print)","issn":"1862-4472","estrato":"B1"}
+{"_id":494,"titulo":"Optimization Methods & Software (Print)","issn":"1055-6788","estrato":"B1"}
+{"_id":495,"titulo":"Opus (Belo Horizonte. Online)","issn":"1517-7017","estrato":"C"}
+{"_id":496,"titulo":"PCCP. Physical Chemistry Chemical Physics (Print)","issn":"1463-9076","estrato":"B1"}
+{"_id":497,"titulo":"Parallel Computing","issn":"0167-8191","estrato":"B1"}
+{"_id":498,"titulo":"Pattern Recognition","issn":"0031-3203","estrato":"A1"}
+{"_id":499,"titulo":"Pattern Recognition Letters","issn":"0167-8655","estrato":"A1"}
+{"_id":500,"titulo":"Peer-to-Peer Networking and Applications (Print)","issn":"1936-6442","estrato":"B3"}
+{"_id":501,"titulo":"Performance Evaluation","issn":"0166-5316","estrato":"B1"}
+{"_id":502,"titulo":"Perspectivas em Ciência da Informação (Online)","issn":"1981-5344","estrato":"C"}
+{"_id":503,"titulo":"Pesquisa Naval (SDM)","issn":"1414-8595","estrato":"C"}
+{"_id":504,"titulo":"Pesquisa Operacional (Impresso)","issn":"0101-7438","estrato":"B4"}
+{"_id":505,"titulo":"Pesquisa Operacional para o Desenvolvimento","issn":"1984-3534","estrato":"B5"}
+{"_id":506,"titulo":"Pesquisa e Planejamento Econômico (Rio de Janeiro)","issn":"0100-551","estrato":"C"}
+{"_id":507,"titulo":"Physica. A (Print)","issn":"0378-4371","estrato":"B3"}
+{"_id":508,"titulo":"Physical Review Letters (Print)","issn":"0031-9007","estrato":"B1"}
+{"_id":509,"titulo":"Physical Review. A","issn":"1050-2947","estrato":"B2"}
+{"_id":510,"titulo":"Physical Review. B, Condensed Matter and Materials Physics","issn":"1098-0121","estrato":"B2"}
+{"_id":511,"titulo":"Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics (Print)","issn":"1539-3755","estrato":"B3"}
+{"_id":512,"titulo":"Plant Methods","issn":"1746-4811","estrato":"B3"}
+{"_id":513,"titulo":"Plant Molecular Biology","issn":"0167-4412","estrato":"B2"}
+{"_id":514,"titulo":"Plant Physiology (Bethesda)","issn":"0032-0889","estrato":"B1"}
+{"_id":515,"titulo":"Plos One","issn":"1932-6203","estrato":"B2"}
+{"_id":516,"titulo":"Polibits","issn":"1870-9044","estrato":"C"}
+{"_id":517,"titulo":"Precision Agriculture (Print)","issn":"1385-2256","estrato":"B3"}
+{"_id":518,"titulo":"Presence (Cambridge, Mass.)","issn":"1054-7460","estrato":"B4"}
+{"_id":519,"titulo":"Procedia Computer Science","issn":"1877-0509","estrato":"C"}
+{"_id":520,"titulo":"Proceedings of the Institution of Mechanical Engineers, Part J, Journal of Engineering Tribology","issn":"1350-6501","estrato":"B5"}
+{"_id":521,"titulo":"Produção (São Paulo. Impresso)","issn":"0103-6513","estrato":"C"}
+{"_id":522,"titulo":"Progress in Nuclear Energy (New Series)","issn":"0149-1970","estrato":"B4"}
+{"_id":523,"titulo":"Protein and Peptide Letters","issn":"0929-8665","estrato":"B3"}
+{"_id":524,"titulo":"Proteins (Print)","issn":"0887-3585","estrato":"B2"}
+{"_id":525,"titulo":"Psicologia: Reflexão e Crítica (UFRGS. Impresso)","issn":"0102-7972","estrato":"C"}
+{"_id":526,"titulo":"Psicologia: Teoria e Prática (Impresso)","issn":"1516-3687","estrato":"C"}
+{"_id":527,"titulo":"Quaternary International","issn":"1040-6182","estrato":"B3"}
+{"_id":528,"titulo":"RAC. Revista de Administração Contemporânea (Online)","issn":"1982-7849","estrato":"C"}
+{"_id":529,"titulo":"RAIRO. Recherche Opérationnelle","issn":"0399-0559","estrato":"B3"}
+{"_id":530,"titulo":"RBGP. Revista Brasileira de Gerenciamento de Projetos","issn":"1679-902X","estrato":"C"}
+{"_id":531,"titulo":"RECIIS. Revista Eletrônica de Comunicação, Informação & Inovação em Saúde (Edição em Português. Online)","issn":"1981-6278","estrato":"C"}
+{"_id":532,"titulo":"REM. Revista Escola de Minas (Impresso)","issn":"0370-4467","estrato":"B5"}
+{"_id":533,"titulo":"RENOTE. Revista Novas Tecnologias na Educação","issn":"1679-1916","estrato":"C"}
+{"_id":534,"titulo":"RESI : Revista Eletrônica de Sistemas de Informação","issn":"1677-3071","estrato":"B5"}
+{"_id":535,"titulo":"Random Structures & Algorithms (Print)","issn":"1042-9832","estrato":"B1"}
+{"_id":536,"titulo":"Recherche Opérationnelle","issn":"1290-3868","estrato":"B2"}
+{"_id":537,"titulo":"Requirements Engineering","issn":"1432-010X","estrato":"B1"}
+{"_id":538,"titulo":"Revista Ambiente Contábil","issn":"2176-9036","estrato":"C"}
+{"_id":539,"titulo":"Revista Brasileira de Administração Científica","issn":"2179-684X","estrato":"C"}
+{"_id":540,"titulo":"Revista Brasileira de Biometria","issn":"1983-0823","estrato":"C"}
+{"_id":541,"titulo":"Revista Brasileira de Computação Aplicada","issn":"2176-6649","estrato":"B5"}
+{"_id":542,"titulo":"Revista Brasileira de Educação Médica (Impresso)","issn":"0100-5502","estrato":"C"}
+{"_id":543,"titulo":"Revista Brasileira de Engenharia Biomédica (Impresso)","issn":"1517-3151","estrato":"B5"}
+{"_id":544,"titulo":"Revista Brasileira de Informática na Educação","issn":"1414-5685","estrato":"B5"}
+{"_id":545,"titulo":"Revista Brasileira de Linguistica Aplicada","issn":"1984-6398","estrato":"C"}
+{"_id":546,"titulo":"Revista Brasileira de Redes de Computadores e Sistemas Distribuídos","issn":"1983-4217","estrato":"B5"}
+{"_id":547,"titulo":"Revista Cisma","issn":"2238-7013","estrato":"C"}
+{"_id":548,"titulo":"Revista Digital de Biblioteconomia e Ciência da Informação","issn":"1678-765X","estrato":"C"}
+{"_id":549,"titulo":"Revista GEINTEC: gestao, inovacao e tecnologias","issn":"2237-0722","estrato":"C"}
+{"_id":550,"titulo":"Revista IEEE América Latina","issn":"1548-0992","estrato":"B4"}
+{"_id":551,"titulo":"Revista Iberoamericana de Educación a Distancia","issn":"1138-2783","estrato":"C"}
+{"_id":552,"titulo":"Revista Latino-Americana de Enfermagem (USP. Ribeirão Preto. Impresso)","issn":"0104-1169","estrato":"C"}
+{"_id":553,"titulo":"Revista Militar de Ciência e Tecnologia","issn":"2316-4522","estrato":"C"}
+{"_id":554,"titulo":"Revista NECAT","issn":"2317-8523","estrato":"C"}
+{"_id":555,"titulo":"Revista Posição","issn":"2359-3741","estrato":"C"}
+{"_id":556,"titulo":"Revista SODEBRAS","issn":"1809-3957","estrato":"C"}
+{"_id":557,"titulo":"Revista STREM","issn":"1678-1252","estrato":"C"}
+{"_id":558,"titulo":"Revista da ABENO","issn":"1679-5954","estrato":"C"}
+{"_id":559,"titulo":"Revista de Administração da UFSM","issn":"1983-4659","estrato":"C"}
+{"_id":560,"titulo":"Revista de Enfermagem UFPE On Line","issn":"1981-8963","estrato":"C"}
+{"_id":561,"titulo":"Revista de Ensino de Engenharia","issn":"2236-0158","estrato":"C"}
+{"_id":562,"titulo":"Revista de Gestão da Tecnologia e Sistemas de Informação (Online)","issn":"1807-1775","estrato":"B5"}
+{"_id":563,"titulo":"Revista de Gestão e Projetos","issn":"2236-0972","estrato":"C"}
+{"_id":564,"titulo":"Revista de Informática Aplicada","issn":"1809-5585","estrato":"C"}
+{"_id":565,"titulo":"Revista de Informática Teórica e Aplicada: RITA","issn":"2175-2745","estrato":"B5"}
+{"_id":566,"titulo":"Revista de Tecnologia da Informação e Comunicação","issn":"2237-5112","estrato":"C"}
+{"_id":567,"titulo":"Revista Árvore (Impresso)","issn":"0100-6762","estrato":"C"}
+{"_id":568,"titulo":"Risk Analysis","issn":"0272-4332","estrato":"B3"}
+{"_id":569,"titulo":"Robotica (Cambridge. Print)","issn":"0263-5747","estrato":"B2"}
+{"_id":570,"titulo":"Robotics and Computer-Integrated Manufacturing","issn":"0736-5845","estrato":"B1"}
+{"_id":571,"titulo":"S & G. Sistemas & Gestão","issn":"1980-5160","estrato":"C"}
+{"_id":572,"titulo":"SIAM Review (Print)","issn":"0036-1445","estrato":"A1"}
+{"_id":573,"titulo":"SIGKDD Explorations","issn":"1931-0145","estrato":"B5"}
+{"_id":574,"titulo":"SIGMOD Record","issn":"0163-5808","estrato":"A1"}
+{"_id":575,"titulo":"SIGPLAN Notices (Cessou em 1991. Cont. ISSN 1523-2867 ACM SIGPLAN Notices)","issn":"0362-1340","estrato":"C"}
+{"_id":576,"titulo":"SQL magazine","issn":"1677-9185","estrato":"C"}
+{"_id":577,"titulo":"Saude em Debate","issn":"0103-1104","estrato":"C"}
+{"_id":578,"titulo":"Science of Computer Programming (Print)","issn":"0167-6423","estrato":"B1"}
+{"_id":579,"titulo":"Scientia Horticulturae","issn":"0304-4238","estrato":"C"}
+{"_id":580,"titulo":"Scientia Plena","issn":"1808-2793","estrato":"C"}
+{"_id":581,"titulo":"Scientific Research and Essays","issn":"1992-2248","estrato":"B5"}
+{"_id":582,"titulo":"Scientometrics (Online)","issn":"1588-2861","estrato":"A2"}
+{"_id":583,"titulo":"Security and Communication Networks","issn":"1939-0114","estrato":"B3"}
+{"_id":584,"titulo":"Sensors (Basel)","issn":"1424-8220","estrato":"A2"}
+{"_id":585,"titulo":"Service Oriented Computing and Applications","issn":"1863-2386","estrato":"B3"}
+{"_id":586,"titulo":"Set-Valued and Variational Analysis: theory and applications","issn":"1877-0533","estrato":"B4"}
+{"_id":587,"titulo":"Sigir Forum","issn":"0163-5840","estrato":"B5"}
+{"_id":588,"titulo":"Signal Processing (Print)","issn":"0165-1684","estrato":"A2"}
+{"_id":589,"titulo":"Simulation Modelling Practice and Theory","issn":"1569-190X","estrato":"B1"}
+{"_id":590,"titulo":"Social Networking","issn":"2169-3285","estrato":"C"}
+{"_id":591,"titulo":"Soft Computing","issn":"1433-7479","estrato":"B1"}
+{"_id":592,"titulo":"Software Engineering Notes","issn":"0163-5948","estrato":"B5"}
+{"_id":593,"titulo":"Software Quality Journal","issn":"0963-9314","estrato":"B2"}
+{"_id":594,"titulo":"Software and Systems Modeling (Print)","issn":"1619-1366","estrato":"B2"}
+{"_id":595,"titulo":"Software, Practice & Experience (Print)","issn":"0038-0644","estrato":"B1"}
+{"_id":596,"titulo":"Software: Practice and Experience","issn":"1097-024X","estrato":"B1"}
+{"_id":597,"titulo":"Statistics in Medicine (Print)","issn":"0277-6715","estrato":"B3"}
+{"_id":598,"titulo":"TEMA. Tendências em Matemática Aplicada e Computacional","issn":"1677-1966","estrato":"B5"}
+{"_id":599,"titulo":"TSI. Technique et Science Informatiques","issn":"0752-4072","estrato":"C"}
+{"_id":600,"titulo":"Temática (João Pessoa. Online)","issn":"1807-8931","estrato":"C"}
+{"_id":601,"titulo":"Tendências e Técnicas em Realidade Virtual e Aumentada","issn":"2177-6776","estrato":"C"}
+{"_id":602,"titulo":"Tendências em Matemática Aplicada e Computacional","issn":"2179-8451","estrato":"B5"}
+{"_id":603,"titulo":"The American Mathematical Monthly","issn":"fev/90","estrato":"B5"}
+{"_id":604,"titulo":"The Electronic Journal of Combinatorics","issn":"1077-8926","estrato":"B2"}
+{"_id":605,"titulo":"The European Physical Journal. B, Condensed Matter Physics (Print)","issn":"1434-6028","estrato":"B3"}
+{"_id":606,"titulo":"The European Physical Journal. Special Topics","issn":"1951-6355","estrato":"B3"}
+{"_id":607,"titulo":"The Gerontologist (Washington, D.C.)","issn":"0016-9013","estrato":"B2"}
+{"_id":608,"titulo":"The International Journal on Advances in Networks and Services","issn":"1942-2644","estrato":"C"}
+{"_id":609,"titulo":"The Journal of Systems and Software","issn":"0164-1212","estrato":"A2"}
+{"_id":610,"titulo":"The Journal of the Acoustical Society of America","issn":"jan/66","estrato":"B3"}
+{"_id":611,"titulo":"The Scientific World Journal","issn":"1537-744X","estrato":"B4"}
+{"_id":612,"titulo":"The VLDB Journal","issn":"1066-8888","estrato":"B1"}
+{"_id":613,"titulo":"The Visual Computer","issn":"0178-2789","estrato":"B1"}
+{"_id":614,"titulo":"Theoretical Computer Science","issn":"0304-3975","estrato":"A2"}
+{"_id":615,"titulo":"Theory and Practice of Logic Programming","issn":"1471-0684","estrato":"B1"}
+{"_id":616,"titulo":"Theory and Practice of Logic Programming (Online)","issn":"1475-3081","estrato":"B1"}
+{"_id":617,"titulo":"Transactions in GIS (Print)","issn":"1361-1682","estrato":"B1"}
+{"_id":618,"titulo":"Transactions on Aspect-Oriented Software Development (Print)","issn":"1864-3027","estrato":"B5"}
+{"_id":619,"titulo":"Transactions on Emerging Telecommunications Technologies (Online)","issn":"2161-3915","estrato":"B2"}
+{"_id":620,"titulo":"Transfusion Medicine (Print)","issn":"0958-7578","estrato":"B4"}
+{"_id":621,"titulo":"Transinformação","issn":"0103-3786","estrato":"B5"}
+{"_id":622,"titulo":"Translational Oncology (Online)","issn":"1936-5233","estrato":"B5"}
+{"_id":623,"titulo":"Transportation Science","issn":"0041-1655","estrato":"B3"}
+{"_id":624,"titulo":"Transportes (Rio de Janeiro)","issn":"2237-1346","estrato":"C"}
+{"_id":625,"titulo":"Tribology International","issn":"0301-679X","estrato":"C"}
+{"_id":626,"titulo":"Universal Access in the Information Society (Internet)","issn":"1615-5297","estrato":"B2"}
+{"_id":627,"titulo":"Vox Sanguinis (Basel. 1956)","issn":"0042-9007","estrato":"B2"}
+{"_id":628,"titulo":"Web Intelligence and Agent Systems","issn":"1570-1263","estrato":"B3"}
+{"_id":629,"titulo":"Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery","issn":"1942-4787","estrato":"B1"}
+{"_id":630,"titulo":"Wiley Interdisciplinary Reviews: RNA","issn":"1757-7012","estrato":"B5"}
+{"_id":631,"titulo":"Wireless Communications and Mobile Computing","issn":"1530-8677","estrato":"B1"}
+{"_id":632,"titulo":"Wireless Networks","issn":"1022-0038","estrato":"A2"}
+{"_id":633,"titulo":"Work (Reading, MA)","issn":"1051-9815","estrato":"B5"}
+{"_id":634,"titulo":"World Journal of Biological Chemistry","issn":"1949-8454","estrato":"C"}
+{"_id":635,"titulo":"Yearbook of International Environmental Law","issn":"0965-1721","estrato":"C"}
+{"_id":636,"titulo":"iSys: Revista Brasileira de Sistemas de Informação","issn":"1984-2902","estrato":"B5"}
