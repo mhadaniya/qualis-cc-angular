@@ -7,6 +7,8 @@ app.use(express.static('./public'));
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 
+app.set('port', (process.env.PORT || 5000));
+
 routes(app);
 
 module.exports = app;
