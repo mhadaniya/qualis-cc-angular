@@ -12,7 +12,7 @@
 	</head>
 	<body ng-controller="QualisController">
 		<div class="container">
-			<h1 class="text-center">Periódicos Qualis</h1>
+			<h1 class="text-center">Periódicos Qualis em Ciência da Computação</h1>
 			<div class="row">
 				<form>
 					<input class="form-control" placeholder="Filtrar pelo issn, título ou estrato do periódico" ng-model="filtro" ng-model-options="{ debounce: 500 }">
@@ -22,14 +22,14 @@
 			<div class="row">
 				<table class="table table-striped table-hover">
 					<thead>
-						<th>#</th>
+						<!-- <th>#</th> -->
 						<th>ISSN</th>
 						<th>Título</th>
 						<th>Estrato</th>
 					</thead>
 					<tbody>
 					<tr ng-repeat="periodico in periodicos | filter: filtro">
-						<td> {{periodico._id}}</td>
+						<!-- <td> {{periodico._id}}</td> -->
 						<td> {{periodico.issn}}</td>
 						<td> {{periodico.titulo}}</td>
 						<td> {{periodico.estrato}}</td>
